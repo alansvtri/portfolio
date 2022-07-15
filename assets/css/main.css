@@ -25,6 +25,24 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+.image-txt-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 40px;
+    @media (max-width: 500px) {;
+    #wrapper {: ;
+    flex-direction: column;
+    }: ;
+    #right-content {: ;
+    display: flex;
+    }: ;
+    section {: ;
+    flex: 1;
+    }: ;
+    }: ;
+}
+
 header {
 	position:fixed;
 }
