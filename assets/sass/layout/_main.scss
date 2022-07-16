@@ -44,7 +44,9 @@
 					}
 				}
 			}
-
+			.divisor {
+				border-top: solid 1px _palette(border);
+			}
 			&.featured {
 				text-align: center;
 			}
