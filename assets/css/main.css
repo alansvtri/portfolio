@@ -4708,7 +4708,7 @@ input, select, textarea {
 			box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
 			visibility: visible;
 		}
-	
+	}
 			/* Slideshow container */
 		.slideshow-container {
 		  max-width: 1000px;
@@ -4794,6 +4794,3 @@ input, select, textarea {
 		  from {opacity: .4}
 		  to {opacity: 1}
 		}
-
-
-	}
