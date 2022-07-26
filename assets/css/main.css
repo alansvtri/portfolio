@@ -43,6 +43,11 @@ section, summary, time, mark, audio, video {
     }: ;
 }
 
+
+.slider {
+	margin-bottom:	2%;
+}
+
 header {
 	position:fixed;
 }
